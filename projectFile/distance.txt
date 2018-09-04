@@ -1,0 +1,70 @@
+
+node:<neu.lab.plug.testcase.homemade.a.A1: void m2()>,
+<neu.lab.plug.testcase.homemade.host.H1: void m2()>,
+
+node:<neu.lab.plug.testcase.homemade.a.A1: void m1()>,
+<neu.lab.plug.testcase.homemade.host.H1: void m1()>,
+
+node:<neu.lab.plug.testcase.homemade.a.A2: void m1()>,
+<neu.lab.plug.testcase.homemade.host.H2: void m1()>,
+
+node:<neu.lab.plug.testcase.homemade.host.H1: void <init>(neu.lab.plug.testcase.homemade.a.A1)>,
+
+node:<java.lang.Object: void <init>()>,
+<neu.lab.plug.testcase.homemade.b.B2: void <init>()>,
+<neu.lab.plug.testcase.homemade.host.H1: void <init>(neu.lab.plug.testcase.homemade.a.A1)>,
+<neu.lab.plug.testcase.homemade.host.Hc: void <init>(neu.lab.plug.testcase.homemade.c.C)>,
+<neu.lab.plug.testcase.homemade.host.Field: void <init>()>,
+<neu.lab.plug.testcase.homemade.a.A1: void <init>()>,
+<neu.lab.plug.testcase.homemade.host.HAdd: void <init>(neu.lab.plug.testcase.homemade.host.Field)>,
+<neu.lab.plug.testcase.homemade.host.H2: void <init>(neu.lab.plug.testcase.homemade.a.A2)>,
+<neu.lab.plug.testcase.homemade.b.B1: void <init>()>,
+<neu.lab.plug.testcase.homemade.a.A2: void <init>()>,
+<neu.lab.plug.testcase.homemade.b.B3: void <init>()>,
+
+node:<neu.lab.plug.testcase.homemade.a.A2: void m2()>,
+
+node:<neu.lab.plug.testcase.homemade.host.H2: void m1()>,
+
+node:<java.lang.Object: void <clinit>()>,
+<neu.lab.plug.testcase.homemade.a.A1: void <init>()>,
+<neu.lab.plug.testcase.homemade.a.A2: void <init>()>,
+
+node:<neu.lab.plug.testcase.homemade.host.Hc: void <init>(neu.lab.plug.testcase.homemade.c.C)>,
+
+node:<neu.lab.plug.testcase.homemade.host.HAdd: void <init>(neu.lab.plug.testcase.homemade.host.Field)>,
+
+node:<neu.lab.plug.testcase.homemade.b.B1: void <init>()>,
+<neu.lab.plug.testcase.homemade.a.A1: void <init>()>,
+
+node:<neu.lab.plug.testcase.homemade.b.B2: void m2()>,
+<neu.lab.plug.testcase.homemade.a.A2: void m2()>,
+
+node:<neu.lab.plug.testcase.homemade.b.B1: void m2()>,
+<neu.lab.plug.testcase.homemade.a.A1: void m2()>,
+
+node:<neu.lab.plug.testcase.homemade.b.B1: void m1()>,
+<neu.lab.plug.testcase.homemade.a.A1: void m1()>,
+
+node:<neu.lab.plug.testcase.homemade.b.B2: void <init>()>,
+<neu.lab.plug.testcase.homemade.a.A2: void <init>()>,
+
+node:<neu.lab.plug.testcase.homemade.b.B2: void m1()>,
+<neu.lab.plug.testcase.homemade.a.A2: void m1()>,
+
+node:<neu.lab.plug.testcase.homemade.host.Field: void <init>()>,
+
+node:<neu.lab.plug.testcase.homemade.a.A1: void <init>()>,
+
+node:<neu.lab.plug.testcase.homemade.host.H2: void <init>(neu.lab.plug.testcase.homemade.a.A2)>,
+
+node:<neu.lab.plug.testcase.homemade.a.A2: void <init>()>,
+
+node:<neu.lab.plug.testcase.homemade.host.H1: void m1()>,
+
+node:<neu.lab.plug.testcase.homemade.host.H1: void m2()>,
+
+node:<neu.lab.plug.testcase.homemade.b.B3: void <init>()>,
+
+
+
