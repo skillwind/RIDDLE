@@ -5,6 +5,7 @@ HomePage: https://skillwind.github.io/RiddleDC/index.html
 # How to use Riddle
 Riddle takes a Maven based project (it should contain the complete Maven built project directory and file pom.xml) as input for analysis. The expected running environment is 64-bit Window operating system with JDK 1.8.**As Maven built projects need to download dependencies from Maven Central Repository, Riddle cannot work offline.**
 You can run Riddle on subjects based on the following steps:
+
 **Step 1:** Unzip the **workspace_riddle.zip** to local directory. Recommended directory structure is:
 > D:\workspace_riddle  
 &#8195;&#8195;├─apache-maven-3.2.5&#8195;&#8195;&#8195;&#8195;Maven source code  
