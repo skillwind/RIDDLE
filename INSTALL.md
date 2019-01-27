@@ -1,4 +1,5 @@
 ![Alt text](https://github.com/skillwind/RIDDLE/blob/master/images/1.png)
+[![DOI](https://zenodo.org/badge/145226316.svg)](https://zenodo.org/badge/latestdoi/145226316)
 # How to use Riddle
 Riddle takes a Maven based project (it should contain the complete Maven built project directory and file pom.xml) as input for analysis. The expected running environment is 64-bit Window operating system with JDK 1.8.**As Maven built projects need to download dependencies from Maven Central Repository, Riddle cannot work offline.**
 You can run Riddle on subjects based on the following steps:
