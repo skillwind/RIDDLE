@@ -1,4 +1,5 @@
 ![figure](https://github.com/skillwind/RIDDLE/blob/master/images/1.png)
+[![DOI](https://zenodo.org/badge/145226316.svg)](https://zenodo.org/badge/latestdoi/145226316)
 # Project description
 <font size="4">Riddle is a test generation tool to trigger the crashes caused by dependency conflict issues and collect the crashing stack traces to help developers examine the problems.</font>
 # Background
