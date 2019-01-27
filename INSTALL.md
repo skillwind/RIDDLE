@@ -11,7 +11,7 @@ You can run Riddle on subjects based on the following steps:
 &#8195;&#8195;├─installscript.jar&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; &#8195; Install script file  
 &#8195;&#8195;├─batchScript.jar&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Script file used to reproduce experimental result  
  
- **Step 2:** Install Riddle:
+ **Step 2:Install Riddle**   
  Execute the following Windows CMD command to install Riddle :java -jar
  > D:\workspace_riddle\installScript.jar
 
