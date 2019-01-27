@@ -38,9 +38,9 @@ We provide the script to run Riddle on experimental subjects in batch mode. The 
 >java -jar D:\workspace_riddle\batchScript.jar  
   
 Then you can automatically get the results in the following folders:
->D:\workspace_riddle\result\1
->D:\workspace_riddle\result\2
->….
+>D:\workspace_riddle\result\1  
+>D:\workspace_riddle\result\2  
+>….  
 >D:\workspace_riddle\result\20  
   
 The overall process would cost you about 2 hours.
