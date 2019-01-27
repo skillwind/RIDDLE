@@ -17,7 +17,7 @@ You can run Riddle on subjects based on the following steps:
 
 **Step 3:** Generate test cases to examine the dependency conflict issues:
 Execute the following Windows CMD command to run Riddle on project under test:
->D:\workspace_riddle\apache-maven-3.2.5\bin\mvn.bat                                                        -  f=D:\workspace_riddle\reportProject\storm-1.1.2\external\storm-kafka-monitor\pom.xml -DcallConflict="org.apache.zookeeper+zookeeper" -Dmaven.test.skip=true package neu.lab:riddle:1.0:gene –e
+>D:\workspace_riddle\apache-maven-3.2.5\bin\mvn.bat                                                        -  f=D:\workspace_riddle\reportProject\storm-1.1.2\external\storm-kafka-monitor\pom.xml -DcallConflict="org.apache.zookeeper+zookeeper" -Dmaven.test.skip=true package neu.lab:riddle:1.0:gene -e
 
 ![Alt text](https://github.com/skillwind/RIDDLE/blob/master/images/2.png)
 
@@ -32,5 +32,17 @@ where
 - **p_ xxxxx** is the document recording the paths from any entry method to any risky method
 - **TraceLog** is the log file recording the stack traces obtained by triggering the risky method
 -  **GarbageLog.txt** is the Riddle execution log file </font>
+
+# Reproducing the experimental results in Section 4
+We provide the script to run Riddle on experimental subjects in batch mode. The experimental subjects are in folder **workspace_riddle\reportProject.** After completing the installation **steps 1** and **2**, please execute the following Windows CMD command:  
+>java -jar D:\workspace_riddle\batchScript.jar  
+  
+Then you can automatically get the results in the following folders:
+>D:\workspace_riddle\result\1
+>D:\workspace_riddle\result\2
+>….
+>D:\workspace_riddle\result\20  
+  
+The overall process would cost you about 2 hours.
 
 
